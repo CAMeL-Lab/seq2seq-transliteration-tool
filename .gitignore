@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+Icon?
+
+# Fasttext
+fastText/
+
+# Data
+bolt_sms_chat_ara_src_transliteration/
+*.xml
+*.out
+*.sh
+*.bin
+*.vec
+
+# Old work from capstone and PPTP
+_OLD-Capstone+PPTP
+
+!dalma_scripts.sh
